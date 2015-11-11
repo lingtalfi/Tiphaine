@@ -1,4 +1,4 @@
-Tiphaine
+Tiphaine notation
 ============
 2015-11-11
 
