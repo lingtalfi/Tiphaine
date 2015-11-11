@@ -9,7 +9,7 @@ Tool for converting a string to a mixed value, using tiphaine notation.
 
 
 
-It uses the [tiphaine notation](https://github.com/lingtalfi/Dreamer/blob/master/Tiphaine/notation.tiphaine.eng.md).
+It uses the [tiphaine notation](https://github.com/lingtalfi/Tiphaine/blob/master/notation.tiphaine.eng.md).
 
 This tool might help you if you are creating your own notations, and for instance you create a notation 
 where the word false actually means the boolean false.
