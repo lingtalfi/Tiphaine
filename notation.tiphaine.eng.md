@@ -5,7 +5,7 @@ Tiphaine notation
 
 
 
-Notation for variable of mixed types.
+Notation for variables of mixed types.
 
 
 Tiphaine is a french first name and the french pronunciation for tiffn, which is the acronym for:
