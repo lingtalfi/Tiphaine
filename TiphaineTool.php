@@ -1,6 +1,6 @@
 <?php
 
-namespace Tiphaine;
+namespace Ling\Tiphaine;
 
 /*
  * LingTalfi 2015-11-11

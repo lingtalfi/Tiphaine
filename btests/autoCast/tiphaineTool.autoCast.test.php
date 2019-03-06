@@ -1,8 +1,8 @@
 <?php
 
-use PhpBeast\AuthorTestAggregator;
-use PhpBeast\PrettyTestInterpreter;
-use Tiphaine\TiphaineTool;
+use Ling\PhpBeast\AuthorTestAggregator;
+use Ling\PhpBeast\PrettyTestInterpreter;
+use Ling\Tiphaine\TiphaineTool;
 
 require_once "bigbang.php";
 
